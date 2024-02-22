@@ -5,6 +5,7 @@ body {
     padding: 0;
 }
 
+<<<<<<< Updated upstream
 h1 {
     margin: auto;
     padding: 50px;
@@ -18,12 +19,28 @@ h1 {
 
 }
 
+=======
+.header1 {
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+>>>>>>> Stashed changes
 caption {
     font-size: 20px;
     font-weight: bold;
 }
 
+<<<<<<< Updated upstream
 .fuelHistory {
+=======
+.fuelTable {
+    border-collapse: collapse;    
+}
+
+.fuelHistory{
+>>>>>>> Stashed changes
     display: block;
     top: 50px;
     width: 80%;
@@ -34,12 +51,20 @@ caption {
 }
 
 .fuelHistory thead th {
+<<<<<<< Updated upstream
     position: sticky;
+=======
+    position:sticky;
+>>>>>>> Stashed changes
     top: 0;
 }
 
 .tableHistory thead tr {
+<<<<<<< Updated upstream
     display: block;
+=======
+    display:block;
+>>>>>>> Stashed changes
 }
 
 th {
@@ -48,8 +73,13 @@ th {
 }
 
 td {
+<<<<<<< Updated upstream
     text-align: center;
     padding: 32px;
+=======
+  text-align: center;  
+  padding: 32px;
+>>>>>>> Stashed changes
 }
 
 tr:nth-child(even) {
